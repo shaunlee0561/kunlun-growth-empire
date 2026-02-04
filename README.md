@@ -17,7 +17,7 @@ We are opening our gates to a select group of developers, marketers, and arbitra
 ## 2. The Infrastructure: Sovereign Backend (Core)
 Unlike fragmented app development, Kunlun Growth operates on a **Single Sovereign Hub**.
 - **Dockerized Logic**: 1,500 niches (from Diamond Grading to Quantum Simulations) modularized as API endpoints.
-- **Privacy as Power**: Our "Ears Pro" stack enables 100% local ML inference (Whisper.cpp on Metal), bypassing cloud costs and privacy risks.
+- **Privacy as Power**: Our "Ears Pro" stack enables 100% local ML inference. We've open-sourced our [Local AI Metal Bridge](https://github.com/shaunlee0561/kunlun-local-ai-metal-bridge) to demonstrate our commitment to on-device supremacy.
 - **Arbitrage-First**: Real-time global pricing engines for Lab-Grown Diamonds and Metaphysical algorithms are built directly into the core.
 
 ---
@@ -44,7 +44,7 @@ We are moving away from "Human-led" scaling to "Agent-orchestrated" domination.
 ---
 
 ## 5. Roadmap: Operation Ares
-- **Phase A (Immediate)**: Launch of the first 30 Flagship Carriers on the App Store.
+- **Phase A (Active)**: 1,500+ Assets synced to Cloud Vault. First 60 'Heavy Hitter' Carriers entering submission queue.
 - **Phase B (Q1 2026)**: Opening the Sovereign API Reseller Program.
 - **Phase C (Q2 2026)**: Full GEO Hive-Mind deployment for global search domination.
 
